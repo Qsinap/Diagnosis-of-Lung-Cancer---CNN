@@ -7,3 +7,8 @@ The methodology of the proposed system was divided into three main stages. In th
 <p align="center">
   <img src="https://raw.githubusercontent.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN/f4fa72c5f6c8b58452a6257e3bfb990e0bb44d32/Figures/Figure%205.svg">
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN/601be672ebb43c533e3982f61cfed99daa4b553a/Figures/Figure%207a.svg">
+</p>
+
