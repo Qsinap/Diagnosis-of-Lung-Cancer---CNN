@@ -20,5 +20,5 @@ The methodology of the proposed system was divided into three main stages. In th
   <img src="https://raw.githubusercontent.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN/601be672ebb43c533e3982f61cfed99daa4b553a/Figures/Figure%207a.svg">
 </p>
 
-This research was supported by the research division from [INDIGO](https://indigo.tech/) Technologies.
+This research was supported by the research division from [INDIGO Technologies.](https://indigo.tech/)
 
