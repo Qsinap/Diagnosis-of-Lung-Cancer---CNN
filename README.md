@@ -37,7 +37,7 @@ The implemented codes are made available to the public in the following link [Cl
 ## Citation
 
 ```
-@article{brain tumors segmentation,
+@article{Diagnosis of Lung Cancer,
   title={Automated Diagnosis of Lung Cancer Through Convolutional Neural Networks: A Deep Learning Approach},
   author={A. Anaya-Isaza, L. Mera-Jim\'enez, E. Olaya-Penagos, D. Peluffo-Ord\'o\~{n}ez and L. Guachi-Guachi},
   journal={doi},
