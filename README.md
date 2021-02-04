@@ -31,8 +31,6 @@ The methodology of the proposed system was divided into three main stages. In th
   <img src="https://raw.githubusercontent.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN/601be672ebb43c533e3982f61cfed99daa4b553a/Figures/Figure%207a.svg">
 </p>
 
-This research was supported by the research division from [INDIGO Technologies.](https://indigo.tech/)
-
 ## Codes
 The implemented codes are made available to the public in the following link [Click Here](https://github.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN/tree/main/Codes)
 
@@ -47,6 +45,6 @@ The implemented codes are made available to the public in the following link [Cl
   year={2021}
 }
 ```
-
+This research was supported by the research division from [INDIGO Technologies.](https://indigo.tech/)
 
 
