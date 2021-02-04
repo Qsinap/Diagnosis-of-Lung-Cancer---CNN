@@ -34,14 +34,14 @@ The methodology of the proposed system was divided into three main stages. In th
 This research was supported by the research division from [INDIGO Technologies.](https://indigo.tech/)
 
 ## Codes
-The implemented codes are made available to the public in the following link [Click Here](https://github.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN)
+The implemented codes are made available to the public in the following link [Click Here](https://github.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN/tree/main/Codes)
 
 ## Citation
 
 ```
 @article{brain tumors segmentation,
-  title={Automatic segmentation of brain tumors on structural magnetic resonance imaging with deep convolutional neural networks},
-  author={A. Anaya-Isaza, L. Mera-Jim\'enez and A. Ram\'{\i}rez-Oca\~{n}a},
+  title={Automated Diagnosis of Lung Cancer Through Convolutional Neural Networks: A Deep Learning Approach},
+  author={A. Anaya-Isaza, L. Mera-Jim\'enez, Emanuel Olaya-Penagos, Diego Peluffo-Ord\'o\~{n}ez and Lorena Guachi-Guachi},
   journal={doi},
   month={},
   year={2021}
