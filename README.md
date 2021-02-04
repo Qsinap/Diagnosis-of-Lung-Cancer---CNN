@@ -39,7 +39,7 @@ The implemented codes are made available to the public in the following link [Cl
 ```
 @article{brain tumors segmentation,
   title={Automated Diagnosis of Lung Cancer Through Convolutional Neural Networks: A Deep Learning Approach},
-  author={A. Anaya-Isaza, L. Mera-Jim\'enez, Emanuel Olaya-Penagos, Diego Peluffo-Ord\'o\~{n}ez and Lorena Guachi-Guachi},
+  author={A. Anaya-Isaza, L. Mera-Jim\'enez, E. Olaya-Penagos, D. Peluffo-Ord\'o\~{n}ez and L. Guachi-Guachi},
   journal={doi},
   month={},
   year={2021}
