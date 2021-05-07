@@ -1,4 +1,7 @@
-# Automated Diagnosis of Lung Cancer Through Convolutional Neural Networks: A Deep Learning Approach
+# Diagnóstico automático para el cáncer de pulmón a través de redes neuronales convolucionales: Un enfoque de aprendizaje profundo
+<!--
+Automated Diagnosis of Lung Cancer Through Convolutional Neural Networks: A Deep Learning Approach
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Qsinap/Diagnosis-of-Lung-Cancer---CNN/6cd67aac2e28acf969673fd34181d386742fa14e/Figures/IconLung.svg">
