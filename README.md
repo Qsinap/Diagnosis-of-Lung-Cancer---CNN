@@ -41,7 +41,7 @@ The implemented codes are made available to the public in the following link [Cl
 ```
 @article{Diagnosis of Lung Cancer,
   title={Automated Diagnosis of Lung Cancer Through Convolutional Neural Networks: A Deep Learning Approach},
-  author={A. Anaya-Isaza, L. Mera-Jim\'enez, E. Olaya-Penagos, D. Peluffo-Ord\'o\~{n}ez and L. Guachi-Guachi},
+  author={A. Anaya-Isaza, L. Mera-Jim\'enez and E. Olaya-Penagos},
   journal={doi},
   month={},
   year={2021}
